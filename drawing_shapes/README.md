@@ -1,4 +1,4 @@
-# first_layouting
+# drawing_shapes
 
 A new Flutter project.
 
